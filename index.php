@@ -7,7 +7,7 @@
 		<div id="page">
 			<div id="menu">
 				<button id="active">Strona główna </button>
-				<button><Regulamin </button>
+				<button>Regulamin </button>
 				<button>Administracja</button>
 				<button>Panel gracza</button>
 				<button>Mapa świata</button>
